@@ -5,7 +5,8 @@ A simple Hello World react-native-web demo that works on IOS, ANDROID & WEB.
 
 ## Installation
 
-node_modules are included so doing another "npm i" or "yarn" is optional.
+1. node_modules are included so doing another "npm i" or "yarn" is optional.
+2. cd ios && pod install
 
 ## Usage IOS/android
 
